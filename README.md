@@ -129,3 +129,6 @@ Rebuild the frontend after changing Vite environment variables. Confirm the host
 - Scheduled email reports
 - Pagination and audit logs
 - Docker setup and CI workflow
+
+## Author
+Vishva MCA Student Project
